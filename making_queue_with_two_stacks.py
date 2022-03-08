@@ -1,5 +1,3 @@
-```python
-
 answer = []
 list_a = []
 list_b = []
@@ -33,4 +31,3 @@ while(True):
 for i in range(0, len(answer)):
 	print(answer[i])
   
-```
